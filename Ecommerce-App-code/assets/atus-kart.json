@@ -1,0 +1,14 @@
+
+
+{
+  "type": "service_account",
+  "project_id": "atus-kart",
+  "private_key_id": "9427cedf9935b92b3e79349c83f5a7b3087c097c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDYnnW/UmQeQR0M\ngrvOIiLMorSCwztMyMQngIhFgqQZviWsNA1I8vd3sRh4vsae5wtaQ2f/JOiJRbbj\n0S2KDINW79UixuFG+Rp04uzeCvaYgbfTD0fmZmEOSKAB/64zze4MLR1bn5aklBij\nY7N/O/KnUwr1VyGGsxO8U4Jzpw/S8FflC47Q94WLIZK7PshHQQ7x0Bob7zOmNYcJ\noQ/vC01sOlkxBSJiNl6hGkTQhgIVaZpGsCv40d/8bVIauxBMeDN2di10lzL4YL9B\nvlNVEo5AamUNaImGfhrxVfQungsjMnoERTYJyx1444NLZ3f4zYY05o5ASjrNfF0c\nV0eiXqmVAgMBAAECggEAD7MRJs5qeF4Q8RqUg/Cp0JnGNwGK502LS3wF5FiYjhxG\nD+bIQ7SgRnaswF6+d6VlIQo1NYlP24sUiArEBl2FZoqeFuKOtzccn/YTMFb5EldS\n1fAlYa4Jc+1djQEiRGaBzZrp2TC5MuP5rFw9SSGa75EvZrw4fAVRW9sHLFyiSY/r\nMzoc9XQBt4w9b4ClDp9mWZ1YKGYfvcoLCHu7ez5yfFNq51RDyuEkLsfnz7zX8I98\n17dkXEZTNYmFisRR8TXNI4zGhkZ1zoVazMDQWK40hPK3eMCqObjw6hz4inDtZTTM\n2BDBofSB2OHfv5qYy0XVtYuhxO2hKy8M7L36STswzQKBgQDxiWbIypKE8R+ShZne\nFcgVab7D70eImwvdJu4WVl1neoixk85Lk7cav0pfjLa5Ef6ao5sJVkDb5HAhs6hW\njmsW4HNV074tHJ4Jq8wVr32Gg0ovIW6u1BNlmkm6W+VYRpeTdjcXq+4zdG0Sz5d5\niQlSxWpuSoC3U7JOOjTjuWGCdwKBgQDllxYAShoQyK9YY124E4C0fRmYWiwFVifn\nxig5dHFap3YhGdCk0JTER5ul8cECVSVaSqV/6pb+eWq/I4EnlpdDYjh/hok6tfsZ\nw3/P5Yn4d4VzH5zcj/091i+qZw2bJpATS/HvnEHiePA2bq+lICBrb3+yimGbD3MQ\nATo2E1vLUwKBgECEtWH5Sn4ccpSO/3TlWJbvsjdgWTlSQS8H0R1CYJzdjFny424o\nvQZ2BoXTbpOtDNd90FIEKjsSoClAdjz4uf5YYjaQ4wHl3Qk0TMWWJO+jblN8mLY2\njB/dwMf4+CBGawLG1xyJno08Ek6uCQY75rOnbDCd0hgmUUC4J5yUzkktAoGAYJHS\nUUDaAeFHz9fL3ddmNYTBNVIIXh5FHro8xR3zZ/w0NewT1J9fU8gC8iPj2UVTNs1b\nG5ji9hrACbG3a51t9ovj09AU/Lr66XVP13RnOjmbyjar1iJClLX4yqYaFP59b4Bs\nPSruk4HnGB4qhzwiJs55WfHW6E/xR/QcNg6id70CgYBkyB8ljrDvA2Qv40wde4Nt\n7x1uMOjuqtcrEobYHR9eoysLnsQX1Y9b58uqigYUlpZobdZnCqK1X0vPXrvsUTGy\nhT644+IoFBgwtDqUfJS3O2sq5SRYy1ccLPtmGlVI9JbAxI/za3q/yBJzlLt6kVrV\npsk0XmS6FrTKgpJywaTCHA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "atus-kart@appspot.gserviceaccount.com",
+  "client_id": "110611050530499652931",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/atus-kart%40appspot.gserviceaccount.com"
+}

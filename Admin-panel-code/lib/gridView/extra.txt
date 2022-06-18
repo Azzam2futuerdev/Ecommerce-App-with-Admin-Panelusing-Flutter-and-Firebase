@@ -1,0 +1,32 @@
+index == 0
+                                  ? Card(
+                                      elevation: 0,
+                                      child: Column(
+                                        crossAxisAlignment:
+                                            CrossAxisAlignment.center,
+                                        mainAxisAlignment:
+                                            MainAxisAlignment.center,
+                                        children: [
+                                          Container(
+                                            height: 150,
+                                            width: 150,
+                                            decoration: BoxDecoration(
+                                                borderRadius:
+                                                    BorderRadius.circular(12),
+                                                color: Colors.white10
+                                                    .withOpacity(0.95)),
+                                            child: CachedNetworkImage(
+                                              imageUrl: snapshot.data['icon'],
+                                              fit: BoxFit.contain,
+                                            ),
+                                          ),
+                                          Text(
+                                            '${snapshot.data['tag']}',
+                                            style: GoogleFonts.poppins(
+                                                fontSize: 18,
+                                                fontWeight: FontWeight.w500),
+                                          )
+                                        ],
+                                      ),
+                                    )
+                                  :
